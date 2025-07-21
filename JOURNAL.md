@@ -26,7 +26,7 @@ After hours of fiddling with grids and splayed layouts in KiCAD, and the flippab
 
 So beautiful. Headache over.
 
-## 2025-07-16 CAD design (2 hours)
+## 2025-07-16 CAD design (1 hour)
 
 Just importing the files of the PCB and the components into an OnShape assembly. Here's what it looks so far:
 
@@ -35,7 +35,7 @@ Just importing the files of the PCB and the components into an OnShape assembly.
 The actual case is yet to be made!
 
 
-## 2025-07-16 Back to KiCAD for a bit (2.5 hour)
+## 2025-07-16 Back to KiCAD for a bit (1.5 hours)
 Fixed up the layout, added 3d models. Routing is still TBD, but the rest is laid out!
 
 <img width="1029" height="880" alt="image" src="https://github.com/user-attachments/assets/94c2cba5-c385-46ed-a883-b33730954feb" />
@@ -43,7 +43,7 @@ Fixed up the layout, added 3d models. Routing is still TBD, but the rest is laid
 <img width="1205" height="890" alt="image" src="https://github.com/user-attachments/assets/b156afd4-1a6c-439a-885b-5796d1352e80" />
 
 
-## 20225-07-21 CAD (5.5 hours)
+## 2025-07-21 CAD (5.5 hours)
 Almost done with cad! Really like how this has been coming. Lots of progress on the BOM too. 
 
 <img width="1222" height="627" alt="image" src="https://github.com/user-attachments/assets/7364a822-2e29-4727-9b35-e320bb34c220" />
