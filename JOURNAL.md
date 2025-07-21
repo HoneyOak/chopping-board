@@ -43,6 +43,12 @@ Fixed up the layout, added 3d models. Routing is still TBD, but the rest is laid
 <img width="1205" height="890" alt="image" src="https://github.com/user-attachments/assets/b156afd4-1a6c-439a-885b-5796d1352e80" />
 
 
+## 20225-07-21 CAD (5.5 hours)
+Almost done with cad! Really like how this has been coming. Lots of progress on the BOM too. 
+
+<img width="1222" height="627" alt="image" src="https://github.com/user-attachments/assets/7364a822-2e29-4727-9b35-e320bb34c220" />
+
+
 
 
 
