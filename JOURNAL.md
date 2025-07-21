@@ -35,4 +35,14 @@ Just importing the files of the PCB and the components into an OnShape assembly.
 The actual case is yet to be made!
 
 
+## 2025-07-16 Back to KiCAD for a bit (2.5 hour)
+Fixed up the layout, added 3d models. Routing is still TBD, but the rest is laid out!
+
+<img width="1029" height="880" alt="image" src="https://github.com/user-attachments/assets/94c2cba5-c385-46ed-a883-b33730954feb" />
+
+<img width="1205" height="890" alt="image" src="https://github.com/user-attachments/assets/b156afd4-1a6c-439a-885b-5796d1352e80" />
+
+
+
+
 
