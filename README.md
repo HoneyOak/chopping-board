@@ -1,8 +1,14 @@
 # Chopping Board
-A minimal 40 key low-profile split ortholinear keyboard. Designed with simplicity and versatility in mind. 
+
+<img width="1920" height="1080" alt="blender2" src="https://github.com/user-attachments/assets/d65e23c5-3f87-4530-b31c-b75ff6831afc" />
+
+A minimal 40 key low-profile split ortholinear keyboard. Designed with simplicity and versatility in mind.
+
+Split keyboards are a revelation in terms of ergonomics. I wanted to build a split ortholinear keyboard that looks clean and is designed with intention. I took aspects from the Corne and Totem to acheive this minimal yet complete keyboard.
+
+## Features
 
 # Images
-<img width="1920" height="1080" alt="blender2" src="https://github.com/user-attachments/assets/d65e23c5-3f87-4530-b31c-b75ff6831afc" />
 <img width="1920" height="1080" alt="blender" src="https://github.com/user-attachments/assets/ab3a0c09-b34e-4deb-aae8-37ad9f6701ad" />
 
 ## Schematic
