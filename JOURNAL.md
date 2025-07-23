@@ -49,7 +49,7 @@ Almost done with cad! Really like how it's coming along. Lots of progress on the
 <img width="1222" height="627" alt="image" src="https://github.com/user-attachments/assets/7364a822-2e29-4727-9b35-e320bb34c220" />
 
 
-## 2025-07-21 CAD (3.5 hours)
+## 2025-07-22 CAD (3.5 hours)
 CAD finished! Did bottom plate + screw holes. Took some time to render it out in blender.
 
 <img width="1920" height="1080" alt="blender" src="https://github.com/user-attachments/assets/13bde78e-131b-478c-a31d-e912d2817e99" />
