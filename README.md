@@ -14,8 +14,7 @@ A minimal 40 key low-profile split ortholinear keyboard. Designed with simplicit
 <img width="1205" height="890" alt="image" src="https://github.com/user-attachments/assets/34bcf7ca-8f68-470e-b490-9f423d30ca75" />
 
 ## Onshape
-link: https://cad.onshape.com/documents/f44f4f4ef5a39d6812b8dac0/w/095a0f8541f1a3b1fc930aaf/e/dd0d0b078a574b8c9309113b?renderMode=0&uiState=6880b9ae03652367c5f626e6
-
+[Link to onshape document](https://cad.onshape.com/documents/f44f4f4ef5a39d6812b8dac0/w/095a0f8541f1a3b1fc930aaf/e/dd0d0b078a574b8c9309113b?renderMode=0&uiState=6880ba9a03652367c5f62c0e)
 <img width="1222" height="627" alt="image" src="https://github.com/user-attachments/assets/e58f9924-f83d-43d0-bc99-2e6d1e6df5ab" />
 
 
