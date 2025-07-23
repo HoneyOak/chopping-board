@@ -7,7 +7,15 @@ A minimal 40 key low-profile split ortholinear keyboard. Designed with simplicit
 Split keyboards are a revelation in terms of ergonomics. I wanted to build a split ortholinear keyboard that looks clean and is designed with intention. I took aspects from the Corne and Totem to acheive this minimal yet complete keyboard.
 
 ## Features
-
+- Hotswappable
+- Low Profile
+- 128x32 OLED on each side
+- Low profile knobs on each side
+- 40 keys
+- Corne style thumb cluster
+- Choc v1 switches
+- ZMK Firmware
+- Replicable, 3D printable and fully open source
 # Images
 <img width="1920" height="1080" alt="blender" src="https://github.com/user-attachments/assets/ab3a0c09-b34e-4deb-aae8-37ad9f6701ad" />
 
