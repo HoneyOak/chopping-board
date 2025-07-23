@@ -1,12 +1,12 @@
 ---
 title: "Chopping Board"
 author: "Divyam"
-description: "A 40 key split ortho focused on simplicity and versatility."
+description: "A 40 key split olkb focused on simplicity and versatility."
 created_at: "2025-07-10"
 ---
 
 # Road to Chopping Board
-Total hours so far: 
+#### Total hours so far: 25.5
 ## 2025-07-11 Research (1.5 hours)
 Exploring current keyboard options and noting what I want. I like the minimalism of the Totem and the layout of the Corne. A low profile keyboard is a must. Aesthetics are just as important as ergonomics.
 Perhaps, then, a slightly staggered layout with a simple thumb cluster is what I should be going for.
@@ -54,3 +54,8 @@ CAD finished! Did bottom plate + screw holes. Took some time to render it out in
 
 <img width="1920" height="1080" alt="blender" src="https://github.com/user-attachments/assets/13bde78e-131b-478c-a31d-e912d2817e99" />
 <img width="1920" height="1080" alt="blender2" src="https://github.com/user-attachments/assets/f286d33c-c9be-44c3-8bc5-67b0c573c483" />
+
+## 2025-07-23 PCB (2.5 hours)
+PCB trace routing done! :D
+<img width="1253" height="829" alt="image" src="https://github.com/user-attachments/assets/4216239b-9583-4766-b6e8-362be1911403" />
+
