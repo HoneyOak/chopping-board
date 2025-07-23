@@ -44,7 +44,7 @@ Fixed up the layout, added 3d models. Routing is still TBD, but the rest is laid
 
 
 ## 2025-07-21 CAD (5.5 hours)
-Almost done with cad! Really like how this has been coming. Lots of progress on the BOM too. 
+Almost done with cad! Really like how it's coming along. Lots of progress on the BOM too. 
 
 <img width="1222" height="627" alt="image" src="https://github.com/user-attachments/assets/7364a822-2e29-4727-9b35-e320bb34c220" />
 
