@@ -12,6 +12,7 @@ Split keyboards are a revelation in terms of ergonomics. I wanted to build a spl
 - 128x32 OLED on each side
 - Low profile knobs on each side
 - 40 keys
+- _Flippable_ PCB _oO_
 - Corne style thumb cluster
 - Choc v1 switches
 - ZMK Firmware
