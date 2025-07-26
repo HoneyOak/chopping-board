@@ -1,6 +1,6 @@
 ---
 title: "Chopping Board"
-author: "Divyam"
+author: "HoneyOak"
 description: "A 40 key split olkb focused on simplicity and versatility."
 created_at: "2025-07-10"
 ---
