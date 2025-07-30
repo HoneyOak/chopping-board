@@ -28,15 +28,14 @@ Split keyboards are a revelation in terms of ergonomics. I wanted to build a spl
 <img width="1029" height="880" alt="image" src="https://github.com/user-attachments/assets/1a906246-4885-4df3-aab6-25f192e375c4" />
 <img width="1205" height="890" alt="image" src="https://github.com/user-attachments/assets/34bcf7ca-8f68-470e-b490-9f423d30ca75" />
 
-# Credits
-
-Erogogen - https://github.com/ergogen/ergogen
-
-Ceolide's Ergogen Footprints - https://github.com/ceoloide/ergogen-footprints
 
 ## Onshape
 [Link to onshape document](https://cad.onshape.com/documents/f44f4f4ef5a39d6812b8dac0/w/095a0f8541f1a3b1fc930aaf/e/dd0d0b078a574b8c9309113b?renderMode=0&uiState=6880ba9a03652367c5f62c0e)
 <img width="1222" height="627" alt="image" src="https://github.com/user-attachments/assets/e58f9924-f83d-43d0-bc99-2e6d1e6df5ab" />
+
+# Credits
+- Erogogen - https://github.com/ergogen/ergogen
+- Ceolide's Ergogen Footprints - https://github.com/ceoloide/ergogen-footprints
 
 
 # BOM
